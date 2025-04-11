@@ -14,11 +14,11 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="right">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -28,11 +28,13 @@
 
 <br clear="both">
 
-<h2 align="left">Social networks</h2>
+<h2 align="right">Social networks</h2>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="right">
   <a href="www.linkedin.com/in/jesus-molina-284a4335a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -43,16 +45,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JDMA23/JDMA23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JDMA23/JDMA23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JDMA23/JDMA23/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/11/17/af/1117afa32ade66460bd3b95037324198.jpg"  />
-</div>
+<img align="left" height="200" src="https://i.pinimg.com/736x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg"  />
 
 ###
