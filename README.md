@@ -50,3 +50,15 @@
 <img align="left" height="200" src="https://i.pinimg.com/736x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg"  />
 
 ###
+
+<h2 align="left">CERTIFICATES</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.hackerrank.com/certificates/iframe/1bb7049cceb7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
